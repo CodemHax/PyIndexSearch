@@ -1,4 +1,4 @@
-# IndexSearch
+# PyIndexSearch
 
 Fast file indexing and search engine with parallel processing.
 
